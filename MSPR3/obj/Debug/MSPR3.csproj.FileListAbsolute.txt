@@ -1,0 +1,13 @@
+F:\EPSI\MSPRDNT3\MSPR3\MSPR3\bin\Debug\MSPR3.exe.config
+F:\EPSI\MSPRDNT3\MSPR3\MSPR3\bin\Debug\MSPR3.exe
+F:\EPSI\MSPRDNT3\MSPR3\MSPR3\bin\Debug\MSPR3.pdb
+F:\EPSI\MSPRDNT3\MSPR3\MSPR3\obj\Debug\MSPR3.csprojAssemblyReference.cache
+F:\EPSI\MSPRDNT3\MSPR3\MSPR3\obj\Debug\MSPR3.AccueilForm.resources
+F:\EPSI\MSPRDNT3\MSPR3\MSPR3\obj\Debug\MSPR3.Forms.GA.Menu.MenuForm.resources
+F:\EPSI\MSPRDNT3\MSPR3\MSPR3\obj\Debug\MSPR3.Properties.Resources.resources
+F:\EPSI\MSPRDNT3\MSPR3\MSPR3\obj\Debug\MSPR3.csproj.GenerateResource.cache
+F:\EPSI\MSPRDNT3\MSPR3\MSPR3\obj\Debug\MSPR3.csproj.CoreCompileInputs.cache
+F:\EPSI\MSPRDNT3\MSPR3\MSPR3\obj\Debug\MSPR3.exe
+F:\EPSI\MSPRDNT3\MSPR3\MSPR3\obj\Debug\MSPR3.pdb
+F:\EPSI\MSPRDNT3\MSPR3\MSPR3\bin\Debug\FontAwesome.Sharp.dll
+F:\EPSI\MSPRDNT3\MSPR3\MSPR3\obj\Debug\MSPR3.csproj.CopyComplete
